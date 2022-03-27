@@ -49,14 +49,4 @@ MIT
 
 ## TODO
 
-- ISUCON1のVagrantfileを作る
-- ~~ISUCON2のVagrantfileを作る~~
-- ISUCON3本選のVagrantfileを作る
-- ISUCON4本選のVagrantfileを作る
-- ISUCON6本選のVagrantfileを作る
-- ISUCON7本選のVagrantfileを作る
-- ISUCON8本選のVagrantfileを作る
-- ISUCON9本選のVagrantfileを作る
-- ~~ISUCON10本選のVagrantfileを作る~~
-- ~~Vagrant boxを作成して配布する~~
-- 英語化
+- まずは環境構築できるようにする
